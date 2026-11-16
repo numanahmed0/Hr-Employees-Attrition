@@ -6,7 +6,7 @@ This interactive **HR Analytics Dashboard** built in **Microsoft Power BI** anal
 ---
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard][(https://github.com/numanahmed0/Hr-Employees-Attrition/blob/main/Snapshot%20of%20Dashboard.png)]
+![HR Analytics Dashboard](https://github.com/numanahmed0/Hr-Employees-Attrition/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
