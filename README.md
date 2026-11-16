@@ -1,17 +1,12 @@
 # 📊 HR Analytics Dashboard — Employee Attrition Analysis
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Domain-HR%20Analytics-6A1B9A?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
 ## 📌 Project Overview
 This interactive **HR Analytics Dashboard** built in **Microsoft Power BI** analyzes workforce demographics, job satisfaction, and employee turnover patterns. Designed to help Human Resources teams and organizational leaders identify key drivers of employee attrition, the report transforms raw HR records into actionable retention insights across departments, education backgrounds, age brackets, and job roles.
 
 ---
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](./assets/dashboard_preview.png)
-*(Note: Replace the path above with the actual path to your dashboard screenshot in your GitHub repository)*
+![HR Analytics Dashboard]([./assets/dashboard_preview.png](https://github.com/numanahmed0/Hr-Employees-Attrition/blob/main/Snapshot%20of%20Dashboard.png))
 
 ---
 
