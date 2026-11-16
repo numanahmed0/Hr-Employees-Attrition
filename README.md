@@ -1,16 +1,16 @@
 # 📊 HR Analytics Dashboard — Employee Attrition Analysis
 
-## 📌 Project Overview
+## 1. Project Overview
 This interactive **HR Analytics Dashboard** built in **Microsoft Power BI** analyzes workforce demographics, job satisfaction, and employee turnover patterns. Designed to help Human Resources teams and organizational leaders identify key drivers of employee attrition, the report transforms raw HR records into actionable retention insights across departments, education backgrounds, age brackets, and job roles.
 
 ---
 
-## 📸 Dashboard Preview
+## 2. Dashboard Preview
 ![HR Analytics Dashboard](https://github.com/numanahmed0/Hr-Employees-Attrition/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
-## 🎯 Key Performance Indicators (KPIs)
+## 3. Key Performance Indicators (KPIs)
 At a glance, the top-level KPI cards summarize the organization's workforce health:
 * **Overall Employees:** `1,470` (1.47K)
 * **Total Attrition:** `237` employees
@@ -20,7 +20,7 @@ At a glance, the top-level KPI cards summarize the organization's workforce heal
 
 ---
 
-## 🧩 Dashboard Features & Visual Breakdown
+## 4. Dashboard Features & Visual Breakdown
 
 1. **Interactive Education Slicer:**
    * Top-bar tile filters allow dynamic slicing across education levels: *Associates Degree, Bachelor's Degree, Doctoral Degree, High School,* and *Master's Degree*.
@@ -40,7 +40,7 @@ At a glance, the top-level KPI cards summarize the organization's workforce heal
 
 ---
 
-## 💡 Key Analytical Insights
+## 5. Key Analytical Insights
 * **High-Volume Turnover in R&D and Sales:** Together, Research & Development (`56.12%`) and Sales (`38.82%`) account for **nearly 95% of all employee attrition**, largely driven by their larger workforce sizes.
 * **Early-to-Mid Career Vulnerability:** The **25–34 age bracket** experiences the highest total attrition (`112` employees, or **47.3% of all departures**), indicating a critical retention window for early-career professionals.
 * **Gender Attrition Trends:** Across all age groups, male employees account for a higher proportion of departures than female employees—most notably in the **35–44** (`72.55%` male vs. `27.45%` female) and **25–34** (`61.61%` male vs. `38.39%` female) cohorts.
@@ -49,7 +49,7 @@ At a glance, the top-level KPI cards summarize the organization's workforce heal
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## 6. Tools & Techniques Used
 * **Power BI Desktop:** Data modeling, DAX calculations, custom purple-gradient UI theming, and interactive cross-filtering.
 * **Power Query:** Data cleaning, column formatting, and conditional grouping (creating age brackets and satisfaction rating buckets).
 * **DAX (Data Analysis Expressions):** Custom measures for `Overall Employees`, `Attrition Count`, `Attrition Rate (%)`, `Active Employees`, and `Average Age`.
