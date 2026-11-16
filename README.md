@@ -32,7 +32,7 @@ At a glance, the top-level KPI cards summarize the organization's workforce heal
 3. **Employee Distribution by Age Group & Gender (Stacked Column Chart):**
    * Compares Male vs. Female headcount across five age brackets (Under 25, 25–34, 35–44, 45–54, and *Over 55), highlighting a workforce heavily concentrated in the **25–34** (`554` total) and **35–44** (`505` total) age groups.
 4. **Job Satisfaction Rating Matrix (Conditional Heat Map):**
-    Evaluates employee satisfaction scores (rated `1` to `4`) across specific job roles (Sales Executive, Research Scientist, Manufacturing Director, Manager, Sales Representative, Research Director), using color intensity to spotlight roles with the highest headcount and satisfaction distribution.
+   * Evaluates employee satisfaction scores (rated `1` to `4`) across specific job roles (Sales Executive, Research Scientist, Manufacturing Director, Manager, Sales Representative, Research Director), using color intensity to spotlight roles with the highest headcount and satisfaction distribution.
 5. **Education Field-Wise Attrition (Horizontal Bar Chart):**
    * Tracks turnover across academic disciplines: Life Sciences (`89`), Medical (`63`), Marketing (`35`), Technical Degree (`32`), Other (`11`), and Human Resources (`7`).
 6. **Attrition by Gender Across Age Groups (Donut Chart Series):**
